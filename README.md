@@ -10,7 +10,7 @@ this library includes 3 popular data structures: dynamic arrays, linked lists
 pointer or non pointer, struct or standard type.
 
 features include:
-multidimensional support for dynamic arrays
-free_func parameters for destroying data structures holding your allocated data
-support for multiple types in the same data structure
-for_each loops
+multidimensional support for dynamic arrays,
+free_func parameters for destroying data structures holding your allocated data,
+support for multiple types in the same data structure,
+and for_each loops.
